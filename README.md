@@ -1,4 +1,4 @@
-# Web2_GuessTheExactNumberApp
+# Web2_GuessThePriceApp
 
 In this repository you will find my very first JavaScript trial for an adapted app of the "Guess the price" TV-show to learn the basics of the JavaScript language.
 
